@@ -20,7 +20,7 @@ title                    : "코딩이 취미가 될 수 있게"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yejin Kim"
-description              : "An amazing website."
+description              : "Better than yesterday."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yejin Kim"
+  name             : "YEJIN KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나의 가치를 높이는 것이 가장 좋은 재태크"
+  bio              : "갓 백수가 된 예진이의 **DevLog**"
   location         : "Somewhere"
   email            :
   links:
