@@ -12,7 +12,7 @@ tags:
 
 # 문제
 - SWEA 5189 - [파이썬 S/W 문제해결 구현 2일차] - 전자카트
-- [문제 링크](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do#none)
+- [문제 링크](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT)
 - 문제의 저작권은 SW Expert Academy에 있으며 무단 복사/배포를 금지 합니다.
 
 # Solution
