@@ -62,7 +62,7 @@ tags:
 Baby Gin을 가지기 위해서는 모든 6장의 카드가 run이거나 tripletes이여야 한다.  
 예를 들어, 444456 이라는 숫자가 있을 때 444(triplets), 456(run)이기 때문에 Baby Gin이다.  
 이 문제는 탐욕 기법을 통해 풀 수 있다. 0~9까지의 인덱스를 가지는 counts 배열에 각 숫자의 개수만큼 값을 저장한다. 그 중 tripletes나 run을 조사 후 tripletes나 run에 해당하는 숫자의 개수를 감소시킨 뒤 남은 숫자로 한번 더 run과 tripletes에 해당하는지 조사한다.  
-![Baby-Gin](/home/yejin/yejin8861.github.io/assets/images/greedy_Baby_Gin.JPG)  
+![BabyGin](../assets/images/babygin.JPG)  
   
 
 ## 탐욕 기법과 동적 계획법의 비교
