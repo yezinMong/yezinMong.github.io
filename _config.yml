@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "코딩이 취미가 될 수 있게"
+title                    : "Midnight In YezinMong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yejin Kim"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "YEJIN KIM"
   avatar           : "/assets/images/teaser.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "갓 백수가 된 예진이의 **DevLog**"
+  bio              : "오렌지를 먹은지 얼마나 오랜지"
   location         : "South Korea"
   email            :
   links:
